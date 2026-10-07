@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.11] - 2026-10-07
+
+### Changed
+- Repository moved to [furic/blocky-ui](https://github.com/furic/blocky-ui); demo and docs at [furic.github.io/blocky-ui](https://furic.github.io/blocky-ui/)
+
 ## [1.0.5] - 2025-12-27
 
 ### Added
